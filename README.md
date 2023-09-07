@@ -4,4 +4,5 @@ Curso Definitivo de HTML y CSS
 
 ## Estrategias de responsive
 
--mostly fluid
+- Mostly fluid
+- Layout Shifyer

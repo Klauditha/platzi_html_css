@@ -20,7 +20,7 @@ html {
   height: 150px;
 }
 .c4 {
-  height: auto;
+  height: auto; /*Crecer en relacion al contenido*/
 }
 .c1 {
   background-color: #003476;
