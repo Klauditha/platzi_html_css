@@ -6,3 +6,4 @@ Curso Definitivo de HTML y CSS
 
 - Mostly fluid
 - Layout Shifyer
+- Column Drop
