@@ -7,3 +7,13 @@ Curso Definitivo de HTML y CSS
 - Mostly fluid
 - Layout Shifyer
 - Column Drop
+
+
+## Utilidades
+
+- https://www.mydevice.io/
+
+## Separacion de archivos CSS por breakpoint
+- mobile.css / style.css
+- tablet.css
+- desktop.css
